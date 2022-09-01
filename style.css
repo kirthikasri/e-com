@@ -5,10 +5,19 @@
 .carousel-item{
   height: 300px;
 }
-.images{display: flex;flex-wrap: wrap;}
-.slot{width: 50%;}
-img{display: block;width: 100%;height: auto;}
-.col{display: block;
+.images{
+  display: flex;
+  flex-wrap: wrap;
+}
+.slot{
+  width: 50%;
+}
+img{
+  display: block;
+  width: 100%;
+  height: auto;}
+.col{
+  display: block;
   width: 100%;
   height: auto;
 
